@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "mg.itu.cycledevie.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "mg.itu.cycledevie.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/antema/.gradle/daemon/9.3.0/mg.itu.cycledevie.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "/home/antema/.gradle/daemon/9.3.0/mg.itu.cycledevie.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/antema/.gradle/daemon/9.3.0/mg.itu.cycledevie.app-debug-23:/layout_activity_second.xml.flat",
+        "source": "/home/antema/.gradle/daemon/9.3.0/mg.itu.cycledevie.app-main-25:/layout/activity_second.xml"
+    }
+]

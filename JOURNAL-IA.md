@@ -1,0 +1,2 @@
+- C'est bien celle de notre paquet, et aussi la bonne cause. 
+- La correction proposée est la bonne car il est effectivement vrai que le Button avec l'id btnPartage n'est pas présent dans activity_main.xml
